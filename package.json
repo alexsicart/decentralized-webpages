@@ -5,8 +5,8 @@
   "dependencies": {
     "buffer": "^5.0.8",
     "ipfs": "^0.26.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "react-dropzone": "^4.2.1",
     "react-scripts": "1.0.14",
     "webtorrent": "^0.98.20"
